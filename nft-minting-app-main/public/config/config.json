@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x07ace3698C3172F9b4c15bcfc0f45d9c839acF92",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x07ace3698c3172f9b4c15bcfc0f45d9c839acf92",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Special Koala",
+  "SYMBOL": "SK",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/special-koala",
+  "SHOW_BACKGROUND": true
+}
